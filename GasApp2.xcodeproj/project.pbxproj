@@ -14,6 +14,7 @@
 		F4D933192C2B82C100A96FDB /* GasApp2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D933182C2B82C100A96FDB /* GasApp2Tests.swift */; };
 		F4D933232C2B82C100A96FDB /* GasApp2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D933222C2B82C100A96FDB /* GasApp2UITests.swift */; };
 		F4D933252C2B82C100A96FDB /* GasApp2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D933242C2B82C100A96FDB /* GasApp2UITestsLaunchTests.swift */; };
+		F4D933322C2B82F500A96FDB /* DriversView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D933312C2B82F400A96FDB /* DriversView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		F4D9331E2C2B82C100A96FDB /* GasApp2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GasApp2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4D933222C2B82C100A96FDB /* GasApp2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GasApp2UITests.swift; sourceTree = "<group>"; };
 		F4D933242C2B82C100A96FDB /* GasApp2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GasApp2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F4D933312C2B82F400A96FDB /* DriversView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriversView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				F4D933062C2B82BF00A96FDB /* GasApp2App.swift */,
 				F4D933082C2B82BF00A96FDB /* ContentView.swift */,
+				F4D933312C2B82F400A96FDB /* DriversView.swift */,
 				F4D9330A2C2B82C100A96FDB /* Assets.xcassets */,
 				F4D9330C2C2B82C100A96FDB /* GasApp2.entitlements */,
 				F4D9330D2C2B82C100A96FDB /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4D933092C2B82BF00A96FDB /* ContentView.swift in Sources */,
+				F4D933322C2B82F500A96FDB /* DriversView.swift in Sources */,
 				F4D933072C2B82BF00A96FDB /* GasApp2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
